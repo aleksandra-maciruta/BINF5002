@@ -1,0 +1,4 @@
+bioconda::sra-tools == 3.1.1
+bioconda::entrez-direct == 22.4
+bioconda::bioawk == 1.0
+bioconda::seqtk == 1.4
